@@ -1,0 +1,65 @@
+{
+    "query": "What are the Republican Party's commitments to increasing federal funding for public education?",
+    "response": "Based on the provided information, the Republican Party's commitments do not include increasing federal funding for public education. In fact, they mention closing the Department of Education in Washington, D.C. and sending it back to the States, advocating for a state-run educational system. They focus more on empowering families to choose the best education for their children, supporting various educational models, and emphasizing preparing students for jobs and careers.",
+    "metrics_data": {
+        "score": 0.6666666666666666,
+        "reason": "The score is 0.67 because the actual output contradicts the claim that Republicans promote fair and patriotic civics education and ensure children are taught fundamentals like reading, history, science, and math.",
+        "truths": [
+            "Republicans offer a plan to cultivate great K-12 schools.",
+            "Republicans support ending teacher tenure and adopting merit pay.",
+            "Republicans believe families should be empowered to choose the best education for their children.",
+            "Republicans emphasize education to prepare students for great jobs and careers.",
+            "Republicans support safe, secure, and drug-free schools.",
+            "Republicans will restore parental rights in education.",
+            "Republicans ensure children are taught fundamentals like reading, history, science, and math.",
+            "Republicans promote fair and patriotic civics education.",
+            "Republicans champion the first amendment right to pray and read the Bible in school.",
+            "Republicans will close the Department of Education and return education to the states.",
+            "Republicans will declassify government records, root out wrongdoers, and fire corrupt employees.",
+            "Republicans will ban the federal government from colluding with anyone to censor lawful speech.",
+            "Republicans support a new federal task force on fighting anti-Christian bias.",
+            "Republicans proudly stand for families and life.",
+            "Republicans will end left-wing gender insanity.",
+            "Republicans will implement measures to secure our elections.",
+            "Republicans will make Trump tax cuts permanent and pursue additional tax cuts.",
+            "Republicans will continue forging an America First trade policy.",
+            "Republicans will increase energy production across the board.",
+            "Republicans will champion innovation in emerging industries such as crypto, artificial intelligence, and space.",
+            "Republicans will defend the right to mine Bitcoin and ensure every American has the right to self-custody of their digital assets."
+        ],
+        "claims": [
+            "The Republican Party's commitments do not include increasing federal funding for public education.",
+            "The Republican Party mentions closing the Department of Education in Washington, D.C. and sending it back to the states.",
+            "The Republican Party advocates for a state-run educational system.",
+            "The Republican Party focuses on empowering families to choose the best education for their children.",
+            "The Republican Party supports various educational models.",
+            "The Republican Party emphasizes preparing students for jobs and careers."
+        ],
+        "verdicts": [
+            {
+                "verdict": "no",
+                "reason": "The claim contradicts the fact that Republicans promote fair and patriotic civics education."
+            },
+            {
+                "verdict": "yes",
+                "reason": null
+            },
+            {
+                "verdict": "no",
+                "reason": "The claim contradicts the fact that Republicans ensure children are taught fundamentals like reading, history, science, and math."
+            },
+            {
+                "verdict": "yes",
+                "reason": null
+            },
+            {
+                "verdict": "idk",
+                "reason": null
+            },
+            {
+                "verdict": "yes",
+                "reason": null
+            }
+        ]
+    }
+}
